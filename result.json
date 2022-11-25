@@ -1,0 +1,38 @@
+{
+ "name": "PythonJSON",
+ "type": "private_group",
+ "id": 881806165,
+ "messages": [
+  {
+   "id": 127533,
+   "type": "service",
+   "date": "2022-11-25T10:11:33",
+   "date_unixtime": "1669353093",
+   "actor": "....",
+   "actor_id": "user1795493251",
+   "action": "create_group",
+   "title": "PythonJSON",
+   "members": [
+    "....",
+    "Naxalov"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 127534,
+   "type": "message",
+   "date": "2022-11-25T10:12:05",
+   "date_unixtime": "1669353125",
+   "from": "....",
+   "from_id": "user1795493251",
+   "text": "Salom",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Salom"
+    }
+   ]
+  }
+ ]
+}
